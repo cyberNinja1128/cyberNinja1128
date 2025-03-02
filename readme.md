@@ -8,6 +8,31 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=FF0000&center=true&vCenter=true&width=500&height=50&lines=I+exist+between+lines+of+code...;Unseen%2C+Unstoppable.;I+rewrite+their+destiny."/>
 </p>
 
+# CyberNinja 🥷 — The ghost Behind the Machine
+
+<p align="center">
+  <span style="
+    font-family: 'Courier New', monospace;
+    font-size: 22px;
+    letter-spacing: 4px;
+    color: #C0C0C0;
+    text-shadow: 0 0 10px #9A031E, 0 0 25px #9A031E, 0 0 50px #9A031E;
+    border-bottom: 2px solid #9A031E;
+    padding: 10px;
+    display: inline-block;
+    background: rgba(0, 0, 0, 0.95);
+    backdrop-filter: blur(3px);
+  ">
+    I exist between lines of code — unseen, unstoppable.<br><br>
+    I don't break systems.<br>
+    I rewrite their destiny.<br><br>
+    What others fear, I exploit.<br>
+    What others build, I fortify.<br>
+    What others imagine, I automate.<br><br>
+    I am <span style="color: #9A031E; text-shadow: 0 0 20px #9A031E;">CyberNinja</span> — the ghost behind the machine.
+  </span>
+</p>
+
 ## 🛠️ Tech Arsenal
 ### **🖥️ Languages**
 `Python` `C++` `Rust` `Go` `Assembly` `Bash` `JavaScript`
